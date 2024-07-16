@@ -1,5 +1,4 @@
 Hi there 👋
-"Exploring the Enchanting World of AI and Data Science "
 
 My journey in the world of Artificial Intelligence began with a spark of curiosity. From my first AI workshop, I was hooked, and I've been on an exciting quest to explore the boundless possibilities of AI ever since.
 
